@@ -1,0 +1,2 @@
+# Mall-Customer
+Algorithm Used - KMEAN ,DBSCAN ,AGGLOMERATIVE CLUSTERING
